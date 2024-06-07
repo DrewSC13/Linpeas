@@ -31,9 +31,7 @@
     /---------------------------------------------------------------------------\
     |                             Do you like PEASS?                            |                                                                          
     |---------------------------------------------------------------------------|                                                                          
-    |         Get latest LinPEAS  :     https://github.com/sponsors/carlospolop |                                                                          
-    |         Follow on Twitter   :     @carlospolopm                           |                                                                          
-    |         Respect on HTB      :     SirBroccoli                             |                                                                          
+    |         Get latest LinPEAS  :     https://github.com/DrewSC13/Linpeas     |                                                                          
     |---------------------------------------------------------------------------|                                                                          
     |                                 Thank you!                                |                                                                          
     \---------------------------------------------------------------------------/                                                                          
