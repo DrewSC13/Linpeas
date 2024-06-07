@@ -1,7 +1,5 @@
 # Linpeas
 
-Paper - LinPEAS Output
-LinPEAS Output
 ./linpeas.sh
 
 
