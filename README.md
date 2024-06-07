@@ -1,0 +1,2 @@
+# Linpeas
+linpeas.sh
